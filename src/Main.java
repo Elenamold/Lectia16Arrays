@@ -33,7 +33,7 @@ public class Main {
     public static void main(String[] args) {
 
         String[] arrAdjectives = createArrays();
-        boolean b = contains(arrAdjectives, "handsome");
+         contains(arrAdjectives, "handsome");
         String[] arrayCopy;
         arrayCopy = addAll(arrAdjectives );
 
