@@ -48,7 +48,6 @@ public class Main {
         System.out.println(arrAdjectives[0]);
         System.out.println(arrAdjectives[1]);
         System.out.println(arrAdjectives[2]);
-
     }
 
 }
